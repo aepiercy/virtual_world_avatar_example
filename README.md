@@ -1,0 +1,1 @@
+# virtual_world_avatar_example
