@@ -24,7 +24,6 @@ public class Engine {
     private ArrayList<Room> rooms;
     private int index;
     Random r;
-    /* Feel free to change the width and height. */
     public static final int WIDTH = 80;
     public static final int HEIGHT = 30;
     private static final int MAXROOMWIDTH = 8;
